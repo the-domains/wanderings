@@ -4,8 +4,15 @@
         <description><![CDATA[wanderings]]></description>
         <link>https://thegrid.ai/wanderings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 12:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Dec 2015 12:24:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wanderings/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[KRABI, Thailand]]></title>
+            <description><![CDATA[<article><h1>KRABI, Thailand</h1><p>A beach town</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd5d64dc1ed9884c343c861288cf2f1db88004d0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/wanderings/krabi-thailand/index.html</link>
+            <guid isPermaLink="false">25aa5f34-e62a-4033-b96d-2f1f6842ea05</guid>
+            <pubDate>Tue, 22 Dec 2015 12:23:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lantau Island]]></title>
             <description><![CDATA[<article><h1>Lantau Island</h1><p>This would be a subtitle</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c414d461b9a90d1300b1dfcdb0856da66105dfe.jpg"></article>]]></description>
