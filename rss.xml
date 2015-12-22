@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[wanderings]]></title>
         <description><![CDATA[wanderings]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wanderings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 12:16:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Dec 2015 12:16:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wanderings/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lantau Island]]></title>
+            <description><![CDATA[<article><h1>Lantau Island</h1><p>This would be a subtitle</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c414d461b9a90d1300b1dfcdb0856da66105dfe.jpg"></article>]]></description>
+            <link>https://thegrid.ai/wanderings/lantau-island/index.html</link>
+            <guid isPermaLink="false">4b1e5837-98d0-40c0-b98d-da57d14a9e71</guid>
+            <pubDate>Tue, 22 Dec 2015 12:16:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Add a Title]]></title>
             <description><![CDATA[<article><h1>Add a Title</h1><p>This is a subtitle</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef802e111ee64be07eb5e730ff0917a87252fba5.jpg"></article>]]></description>
-            <link>undefinedadd-a-title/index.html</link>
+            <link>https://thegrid.ai/wanderings/add-a-title/index.html</link>
             <guid isPermaLink="false">8b8cbd7d-31a0-491b-9905-aa14b91226e4</guid>
             <pubDate>Tue, 22 Dec 2015 12:16:08 GMT</pubDate>
         </item>
