@@ -1,0 +1,28 @@
+name: wanderings
+favicon: null
+layout_spectrum: 0.9619104254525155
+typography_spectrum: 0.8392859329469502
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4165505876298994
+  lightness: 0.8463732146192342
+  saturation: 0.6387698401231319
+  rhythmicContrast: 0.360099091893062
+purpose: []
